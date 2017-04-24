@@ -1,19 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<title>7-1</title>
-</head>
-<body>
-	<h1>7-1</h1>
-	<table border="1">
-		<tr>
-			<td>
-				5179487
-			</td>
-		</tr>
-	</table>
-
-</body>
-</html>
+td{
+  /*註解*/
+  /*padding: 30px 160px;*/
+/*  padding-top:10px;
+  padding-right:20px;
+  padding-bottom:30px;
+  padding-left:40px;*/
+  padding: 10px 20px 30px 40px;
+  border:solid 10px #9d7ec9
+  border-width:10px;
+  border-color: #000;
+  border-top-style: dotted;
+  border-left-style: double;
+}
+.d1{
+  width: 100px;
+  height: 100px;
+  background-color: #cc4fc5;
+  margin: 20px;
+ 
+}
+ 
+#d2{
+  width: 500px;
+  height: 500px;
+  background-color: #86e3e8;
+ 
+}
